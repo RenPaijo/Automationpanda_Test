@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'web ui'</initValue>
+      <name>searchValid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'baju'</initValue>
+      <name>searchNonValid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'xysbonn@gmail.com'</initValue>
+      <name>emailValid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'asdada'</initValue>
+      <name>emailNonValid1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sdasdas@'</initValue>
+      <name>emailNonValid2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'fuhuaempyrea114@gmail.com'</initValue>
+      <name>emailValid2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

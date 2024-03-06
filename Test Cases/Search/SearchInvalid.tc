@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validasi search dengan menggunakan kata atau kalimat yang tidak ada di web</description>
+   <name>SearchInvalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab81f2c9-49d8-42c8-af20-1c83f238ec60</testCaseGuid>
+</TestCaseEntity>

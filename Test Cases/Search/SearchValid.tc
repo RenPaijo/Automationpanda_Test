@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan validasi search dengan menggunakan kata atau kalimat yang ada artikel atau infornya</description>
+   <name>SearchValid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feb4057c-48d8-4572-8d85-9c4b1705cfb9</testCaseGuid>
+</TestCaseEntity>
